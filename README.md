@@ -1,23 +1,23 @@
 # Flutter-apps created to learn Flutter[Dart].
 
- 1.Toss
-  https://github.com/ArqamShamim/Toss
+ <h2>1.Toss</h2>
+  <a href="https://github.com/ArqamShamim/Toss">View Flutter Project</a><br>
   A simple app with a coin to toss and a dice to roll.
- 2.Tasweeh
-  https://github.com/ArqamShamim/Tasweeh 
+ <h2>2.Tasweeh</h2>
+  <a href = "https://github.com/ArqamShamim/Tasweeh">View Flutter Project</a><br>
   A simple tally counter app.
- 3.BMI Calculator
-  https://github.com/ArqamShamim/BMI_Calculator
+ <h2>3.BMI Calculator</h2>
+  <a href = "https://github.com/ArqamShamim/BMI_Calculator">View Flutter Project</a><br>
   BMI Calculator with a beautiful UI.
- 4.Clima
-  https://github.com/ArqamShamim/Clima
+ <h2>4.Clima</h2>
+  <a href = "https://github.com/ArqamShamim/Clima">View Flutter Project</a><br>
   A live weather app.(Made Using API calls and JSON Parsing)
- 5.Bitcoin Ticker
-  https://github.com/ArqamShamim/bitcoin-ticker 
+ <h2>5.Bitcoin Ticker</h2>
+  <a href = "https://github.com/ArqamShamim/bitcoin-ticker">View Flutter Project</a><br> 
   An app that tracks bitcoin prices in different currencies.
- 6.Flash Chat
-  https://github.com/ArqamShamim/flash-chat 
+ <h2>6.Flash Chat</h2>
+  <a href = "https://github.com/ArqamShamim/flash-chat">View Flutter Project</a><br> 
   A simple chat app.(Made using Firebase and Cloud Firestore)
- 7.Todoey
-  https://github.com/ArqamShamim/todoey
+ <h2>7.Todoey</h2>
+  <a href = "https://github.com/ArqamShamim/todoey">View Flutter Project</a><br>
   An interactive to-do list app.(Uses provider package for state management)
