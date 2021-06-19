@@ -1,7 +1,7 @@
 # Flutter-apps created to learn Flutter[Dart].
 
  1.Toss
- - [https://github.com/ArqamShamim/Toss]{Toss}
+ - https://github.com/ArqamShamim/Toss
  - A simple app with a coin to toss and a dice to roll.
  2.Tasweeh
  - https://github.com/ArqamShamim/Tasweeh 
